@@ -5,7 +5,7 @@ const isSafari = () => {
   return ua.indexOf('safari') > -1 && ua.indexOf('chrome') < 0;
 };
 
-const mainVideo = '/video/video2.webm';
+const mainVideo = '/video/video4.webm';
 const backupImage = '/img/hero-image.png';
 export default function App() {
   const videoParentRef = useRef();
