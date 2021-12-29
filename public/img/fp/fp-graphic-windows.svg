@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="100px" viewBox="0 0 150 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>fp-graphic-windows</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-668.000000, -850.000000)">
+            <g id="fp-graphic-windows" transform="translate(668.000000, 850.000000)">
+                <rect id="Rectangle" x="0" y="0" width="150" height="100"></rect>
+                <circle id="Oval" fill="#FDF5E5" cx="75" cy="50" r="46"></circle>
+                <rect id="Rectangle" stroke="#FF0062" stroke-width="2" fill="#FFFFFF" x="89" y="41" width="43" height="33" rx="4"></rect>
+                <rect id="Rectangle" stroke="#FF0062" stroke-width="2" fill="#FFFFFF" x="24" y="36" width="59" height="43" rx="4"></rect>
+                <rect id="Rectangle" fill="#FFD7D7" x="31" y="47" width="44" height="4" rx="2"></rect>
+                <rect id="Rectangle" fill="#FFD7D7" x="31" y="55" width="44" height="4" rx="2"></rect>
+                <rect id="Rectangle" fill="#FFD7D7" x="96" y="47" width="30" height="6" rx="2"></rect>
+                <rect id="Rectangle" fill="#FFD7D7" x="96" y="59" width="30" height="6" rx="2"></rect>
+                <rect id="Rectangle" stroke="#FF0062" stroke-width="2" fill="#FFFFFF" x="48" y="25" width="59" height="43" rx="4"></rect>
+                <line x1="52.0418446" y1="34.2365165" x2="102.619697" y2="34.2365165" id="Path-4" stroke="#FF0062" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <circle id="Oval" stroke="#FF0062" fill="#D8D8D8" cx="52" cy="30" r="1"></circle>
+                <circle id="Oval" stroke="#FF0062" fill="#D8D8D8" cx="57" cy="30" r="1"></circle>
+                <circle id="Oval" stroke="#FF0062" fill="#D8D8D8" cx="62" cy="30" r="1"></circle>
+                <polyline id="Path-5" stroke="#FF0062" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="69.3531093 44 62.3767109 50.9763983 69.3531093 57.9527966"></polyline>
+                <polyline id="Path-5" stroke="#FF0062" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(87.826479, 51.019684) rotate(-180.000000) translate(-87.826479, -51.019684) " points="91.3146786 44.0432856 84.3382803 51.0196839 91.3146786 57.9960822"></polyline>
+                <line x1="81.1096293" y1="44.0432856" x2="72.8982857" y2="57.9527966" id="Path-6" stroke="#FF0062" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

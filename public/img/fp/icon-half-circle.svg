@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-half-circle</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-909.000000, -764.000000)">
+            <g id="icon-half-circle" transform="translate(909.000000, 764.000000)">
+                <circle id="Oval" stroke="#FF0062" fill="#FDF5E5" cx="12" cy="12" r="11.5"></circle>
+                <path d="M12,0.685626069 L12,23.6856261 C5.92486775,23.6856261 1,18.7607583 1,12.6856261 L1,11.6856261 C1,5.61049382 5.92486775,0.685626069 12,0.685626069 L12,0.685626069 L12,0.685626069 Z" id="Path-12" fill="#FF0062"></path>
+            </g>
+        </g>
+    </g>
+</svg>

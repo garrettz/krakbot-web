@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="100px" viewBox="0 0 150 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>fp-graphic-diagram</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1042.000000, -850.000000)">
+            <g id="fp-graphic-diagram" transform="translate(1042.000000, 850.000000)">
+                <rect id="Rectangle" x="0" y="0" width="150" height="100"></rect>
+                <circle id="Oval" fill="#FDF5E5" cx="75" cy="50" r="46"></circle>
+                <g id="Group-2" transform="translate(78.500000, 50.000000) rotate(90.000000) translate(-78.500000, -50.000000) translate(35.000000, 4.000000)" stroke="#FF0062" stroke-width="2">
+                    <path d="M64.4776583,9 L68.8338296,9 C78.8667285,9 87,17.1332715 87,27.1661704 C87,37.1990693 78.8667285,45.3323408 68.8338296,45.3323408 L18.8338296,45.3323408 C8.43219272,45.3323408 3.34542156e-15,53.7645336 0,64.1661704 C-3.34542156e-15,74.5678073 8.43219272,83 18.8338296,83 L43.5,83 L43.5,83" id="Path-7"></path>
+                    <line x1="42.5" y1="4" x2="42.5" y2="84" id="Path-9"></line>
+                    <path d="M52.402343,36.0383546 L50.7767787,53.5725931 L33.2425402,55.1981574 L34.6644841,37.4602986 L52.402343,36.0383546 Z" id="Rectangle" fill="#FFFFFF" transform="translate(42.829281, 45.625096) rotate(45.000000) translate(-42.829281, -45.625096) "></path>
+                    <rect id="Rectangle" fill="#FFFFFF" x="23" y="1" width="39" height="16" rx="8"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="23" y="75" width="39" height="16" rx="8"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

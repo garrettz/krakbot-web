@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="100px" viewBox="0 0 150 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>fp-graphic-nodes</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-254.000000, -850.000000)">
+            <g id="fp-graphic-nodes" transform="translate(254.000000, 850.000000)">
+                <rect id="Rectangle" x="0" y="0" width="150" height="100"></rect>
+                <circle id="Oval" fill="#FDF5E5" cx="75" cy="50" r="46"></circle>
+                <g id="Group" transform="translate(29.000000, 29.000000)" stroke="#FF0062" stroke-width="2">
+                    <circle id="Oval" fill="#FFFFFF" cx="7.5" cy="7.5" r="6.5"></circle>
+                    <circle id="Oval" fill="#FFFFFF" cx="44" cy="7" r="5"></circle>
+                    <circle id="Oval" fill="#FFFFFF" cx="78" cy="28" r="5"></circle>
+                    <rect id="Rectangle" fill="#FFFFFF" x="74" y="3" width="8" height="8"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="74" y="47" width="8" height="8"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="41" y="25" width="8" height="8"></rect>
+                    <line x1="49.053966" y1="7.5" x2="73.094711" y2="7.5" id="Path-2"></line>
+                    <line x1="49.053966" y1="29.5" x2="73.094711" y2="29.5" id="Path-2"></line>
+                    <line x1="14.053966" y1="7.5" x2="38.094711" y2="7.5" id="Path-2"></line>
+                    <path d="M48,29.5 L54.1363695,29.5 C58.0023628,29.5 61.1363695,32.6340068 61.1363695,36.5 L61.1363695,44.5 C61.1363695,48.3659932 64.2703763,51.5 68.1363695,51.5 L74,51.5 L74,51.5" id="Path-3"></path>
+                    <path d="M14,7.5 L20.1363695,7.5 C24.0023628,7.5 27.1363695,10.6340068 27.1363695,14.5 L27.1363695,22.5 C27.1363695,26.3659932 30.2703763,29.5 34.1363695,29.5 L40,29.5 L40,29.5" id="Path-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

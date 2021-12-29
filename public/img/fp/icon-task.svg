@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-task</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-875.000000, -763.000000)">
+            <g id="icon-task" transform="translate(875.000000, 763.000000)">
+                <circle id="Oval" fill="#FDF5E5" cx="14.5" cy="14.5" r="14.5"></circle>
+                <g id="Group-2" transform="translate(14.500000, 14.000000) rotate(90.000000) translate(-14.500000, -14.000000) translate(5.000000, 1.500000)" stroke="#FF0062">
+                    <path d="M11.3972563,3.3 L14.1171819,3.01379537 C16.5450148,2.75832623 18.720261,4.51937505 18.9757301,6.947208 C18.9918989,7.10086712 19,7.25526833 19,7.40977579 C19,10.1213701 16.8018185,12.3195516 14.0902242,12.3195516 L5.09022421,12.3195516 C2.27897101,12.3195516 9.0416799e-16,14.5985226 0,17.4097758 C-9.0416799e-16,20.221029 2.27897101,22.5 5.09022421,22.5 L9.5,22.5 L9.5,22.5" id="Path-7"></path>
+                    <line x1="9.5" y1="2.27373675e-13" x2="10" y2="21.5" id="Path-9"></line>
+                    <path d="M12.1439182,9.28597165 L11.9622064,14.2497352 L6.99844288,14.431447 L7.11894759,9.40647635 L12.1439182,9.28597165 Z" id="Rectangle" fill="#FFFFFF" transform="translate(9.574434, 11.861963) rotate(45.000000) translate(-9.574434, -11.861963) "></path>
+                    <rect id="Rectangle" fill="#FFFFFF" x="5" y="0.5" width="9" height="5" rx="2.5"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="5" y="19.5" width="9" height="5" rx="2.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
