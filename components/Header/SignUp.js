@@ -18,7 +18,7 @@ export const SignUpButton = ({ isMobile = false }) => {
           : 'inline-flex items-center font-primary font-semibold uppercase h-10 px-3 py-2 border border-transparent text-sm leading-4 font-medium rounded-md text-white bg-primary-600 hover:bg-primary-700 transition ease-in-out duration-150'
       }
     >
-      Book Demo
+      Request Demo
     </button>
   );
 };

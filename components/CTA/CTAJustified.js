@@ -1,4 +1,4 @@
-import Button from '../Button/Button';
+import { SignUpButton } from '../Header/SignUp';
 
 const CTAJustified = () => {
   return (
@@ -11,12 +11,7 @@ const CTAJustified = () => {
             <span className='text-primary-600'>Start today.</span>
           </h2>
           <div className='mt-8 flex lg:flex-shrink-0 lg:mt-0'>
-            <Button className='mr-3' color='primary' size='lg'>
-              Book a Demo
-            </Button>
-            <Button color='secondary' size='lg'>
-              Contact Us
-            </Button>
+            <SignUpButton />
           </div>
         </div>
       </div>

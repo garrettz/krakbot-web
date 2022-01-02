@@ -6,7 +6,7 @@ const isSafari = () => {
 };
 
 const mainVideo = '/video/video4.webm';
-const backupImage = '/img/hero-image.png';
+// const backupImage = '/img/hero-image.png';
 export default function App() {
   const videoParentRef = useRef();
   const [shouldUseImage, setShouldUseImage] = useState(false);
@@ -46,7 +46,31 @@ export default function App() {
   }, []);
 
   return shouldUseImage ? (
-    <img style={{ position: 'relative', zIndex: 5000 }} src={backupImage} alt='' />
+    // <img style={{ position: 'relative', zIndex: 5000 }} src={backupImage} alt='' />
+    <div
+      ref={videoParentRef}
+      style={{
+        zIndex: 5001,
+        display: 'flex',
+        alignItems: 'center',
+        overflow: 'hidden',
+        flex: 1,
+        justifyContent: 'center',
+        height: '100%',
+      }}
+      dangerouslySetInnerHTML={{
+        __html: `
+        <video
+          loop
+          muted
+          autoplay
+          playsinline
+          preload="metadata"
+        >
+        <source src="${mainVideo}" type="video/webm" />
+        </video>`,
+      }}
+    />
   ) : (
     <div
       ref={videoParentRef}

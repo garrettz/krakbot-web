@@ -13,7 +13,7 @@ const SignUpForm = () => {
   const sendEmail = ({ values, actions }) => {
     emailjs.sendForm('service_9vq9heh', 'template_czw29ho', form.current, 'user_nTdFCj7yE5AhEsY5VA41D').then(
       (result) => {
-        setMessage(`ss`);
+        setMessage(`-`);
       },
       (error) => {
         alert(error);

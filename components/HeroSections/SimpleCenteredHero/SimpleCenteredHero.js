@@ -1,5 +1,6 @@
 import Background from '../../Background/Background';
 import Button from '../../Button/Button';
+import { SignUpButton } from '../../Header/SignUp';
 import VideoOverlay from './VideoOverlay';
 
 const SimpleCenteredHero = () => {
@@ -21,9 +22,7 @@ const SimpleCenteredHero = () => {
               </p>
               <div className='mt-5 max-w-md sm:flex sm:justify-left md:mt-8'>
                 <div className='rounded-md shadow'>
-                  <Button color='primary' size='xl' className='w-full'>
-                    Request Demo
-                  </Button>
+                  <SignUpButton />
                 </div>
               </div>
             </main>
