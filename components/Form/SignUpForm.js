@@ -16,7 +16,7 @@ const SignUpForm = () => {
         setMessage(`-`);
       },
       (error) => {
-        alert(error);
+        console.log(error);
       }
     );
   };
@@ -35,16 +35,16 @@ const SignUpForm = () => {
             lname: '',
             cname: '',
             cmail: '',
-            message: '',
+            cmessage: '',
           }}
-          validateOnBlur={true}
+          validateOnBlur={false}
           validateOnChange={false}
           validationSchema={yup.object().shape({
             fname: yup.string().required('First Name is Required'),
             lname: yup.string().required('Last Name is Required'),
             cname: yup.string().required('Company Name is Required'),
             cmail: yup.string().email('Invalid email').required('Company Email is Required'),
-            message: yup.string(),
+            cmessage: yup.string(),
           })}
           onSubmit={sendEmail}
         >
