@@ -6,7 +6,7 @@ const Diagram = () => {
           <div className='mt-10 text-center'>
             <h2 className='text-3xl font-bold' style={{ textShadow: '0px 2px #ffffff' }}>
               Automate the flow and transformation of data without human intervention using Krakbot. Intelligent robots
-              navigate authentication pathways to fetch data, manipulate it and push it into common destimation.
+              navigate authentication pathways to fetch data, manipulate it and push it into common destination.
             </h2>
             <div className='flex justify-center w-full items-center'>
               <img className='my-8 w-4/6' src='/img/fp/graphic-fp-flow-diagram.png' />
